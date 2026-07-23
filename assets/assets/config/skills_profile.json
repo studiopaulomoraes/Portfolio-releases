@@ -1,0 +1,1149 @@
+{
+  "version": 2,
+  "platforms": {
+    "android": {
+      "development": {
+        "android_kotlin": {
+          "label": "Kotlin",
+          "score": 95,
+          "keywords": [
+            "kotlin",
+            "android kotlin"
+          ]
+        },
+        "android_java": {
+          "label": "Java",
+          "score": 95,
+          "keywords": [
+            "java",
+            "android java"
+          ]
+        },
+        "android_compose": {
+          "label": "Jetpack Compose",
+          "score": 90,
+          "keywords": [
+            "jetpack compose",
+            "compose",
+            "android compose"
+          ]
+        },
+        "android_views": {
+          "label": "XML Views",
+          "score": 95,
+          "keywords": [
+            "xml views",
+            "android views",
+            "view system"
+          ]
+        },
+        "android_jetpack": {
+          "label": "Jetpack",
+          "score": 95,
+          "keywords": [
+            "jetpack",
+            "android jetpack",
+            "navigation component",
+            "viewmodel",
+            "livedata"
+          ]
+        },
+        "android_coroutines": {
+          "label": "Coroutines & Flow",
+          "score": 95,
+          "keywords": [
+            "coroutines",
+            "kotlin flow",
+            "flow",
+            "suspend"
+          ]
+        },
+        "android_room": {
+          "label": "Room",
+          "score": 95,
+          "keywords": [
+            "room",
+            "room database",
+            "sqlite android"
+          ]
+        },
+        "android_retrofit": {
+          "label": "Retrofit & OkHttp",
+          "score": 95,
+          "keywords": [
+            "retrofit",
+            "okhttp",
+            "rest android"
+          ]
+        },
+        "android_camerax": {
+          "label": "CameraX & ML Kit",
+          "score": 95,
+          "keywords": [
+            "camerax",
+            "ml kit",
+            "firebase ml kit",
+            "camera android"
+          ]
+        },
+        "android_ndk": {
+          "label": "NDK",
+          "score": 90,
+          "keywords": [
+            "ndk",
+            "native android",
+            "jni"
+          ]
+        },
+        "android_ble": {
+          "label": "BLE & Sensors",
+          "score": 95,
+          "keywords": [
+            "ble",
+            "bluetooth low energy",
+            "sensors",
+            "gps android",
+            "telemetry capture"
+          ]
+        },
+        "android_sdk_design": {
+          "label": "Android SDK Design",
+          "score": 95,
+          "keywords": [
+            "android sdk",
+            "mobile sdk android",
+            "sdk design android",
+            "white-label android"
+          ]
+        },
+        "android_testing": {
+          "label": "JUnit & Espresso",
+          "score": 95,
+          "keywords": [
+            "junit android",
+            "espresso",
+            "android unit test",
+            "android instrumentation"
+          ]
+        },
+        "android_gradle": {
+          "label": "Gradle & Flavors",
+          "score": 95,
+          "keywords": [
+            "gradle android",
+            "product flavors android",
+            "build variants android"
+          ]
+        }
+      },
+      "cicd": {
+        "android_fastlane": {
+          "label": "Fastlane Android",
+          "score": 95,
+          "keywords": [
+            "fastlane android",
+            "apk",
+            "aab",
+            "android release"
+          ]
+        }
+      }
+    },
+    "ios": {
+      "development": {
+        "ios_swift": {
+          "label": "Swift",
+          "score": 90,
+          "keywords": [
+            "swift",
+            "swift ios"
+          ]
+        },
+        "ios_objective_c": {
+          "label": "Objective-C",
+          "score": 60,
+          "keywords": [
+            "objective-c",
+            "objc",
+            "objective c"
+          ]
+        },
+        "ios_swiftui": {
+          "label": "SwiftUI",
+          "score": 90,
+          "keywords": [
+            "swiftui",
+            "swift ui"
+          ]
+        },
+        "ios_uikit": {
+          "label": "UIKit",
+          "score": 90,
+          "keywords": [
+            "uikit",
+            "ui kit ios"
+          ]
+        },
+        "ios_ads_sdk": {
+          "label": "Ads SDK iOS",
+          "score": 90,
+          "keywords": [
+            "ads sdk ios",
+            "mobile ads ios",
+            "monetization ios"
+          ]
+        },
+        "ios_ivs": {
+          "label": "Amazon IVS",
+          "score": 90,
+          "keywords": [
+            "amazon ivs",
+            "live streaming ios",
+            "interactive video ios"
+          ]
+        },
+        "ios_banking": {
+          "label": "Banking Apps iOS",
+          "score": 90,
+          "keywords": [
+            "banking ios",
+            "bradesco net empresas",
+            "net empresas",
+            "mobile banking ios"
+          ]
+        },
+        "ios_telemetry_sdk": {
+          "label": "Telemetry Capture SDK iOS",
+          "score": 90,
+          "keywords": [
+            "telemetry ios",
+            "telematics ios",
+            "gps ios sdk",
+            "ble ios sdk"
+          ]
+        }
+      },
+      "cicd": {
+        "ios_fastlane": {
+          "label": "Fastlane iOS",
+          "score": 95,
+          "keywords": [
+            "fastlane ios",
+            "ipa",
+            "ios release",
+            "app store connect"
+          ]
+        },
+        "ios_signing": {
+          "label": "iOS Signing & Profiles",
+          "score": 95,
+          "keywords": [
+            "provisioning profile",
+            "ios signing",
+            "apple distribution",
+            "codesign ios"
+          ]
+        },
+        "ios_cocoapods": {
+          "label": "CocoaPods",
+          "score": 95,
+          "keywords": [
+            "cocoapods",
+            "podfile",
+            "pod install",
+            "ios pods"
+          ]
+        },
+        "ios_spm": {
+          "label": "Swift Package Manager",
+          "score": 95,
+          "keywords": [
+            "spm",
+            "swift package manager",
+            "swift packages",
+            "xcode spm",
+            "package.swift",
+            "xcode"
+          ]
+        }
+      }
+    },
+    "flutter": {
+      "development": {
+        "flutter_dart": {
+          "label": "Dart & FVM",
+          "score": 95,
+          "keywords": [
+            "dart",
+            "fvm",
+            "flutter sdk"
+          ]
+        },
+        "flutter_modular_bloc": {
+          "label": "flutter_modular + BloC/Cubit",
+          "score": 95,
+          "keywords": [
+            "flutter modular",
+            "flutter_modular",
+            "bloc",
+            "cubit",
+            "flutter bloc"
+          ]
+        },
+        "flutter_riverpod": {
+          "label": "Riverpod",
+          "score": 95,
+          "keywords": [
+            "riverpod",
+            "flutter riverpod"
+          ]
+        },
+        "flutter_provider": {
+          "label": "Provider",
+          "score": 95,
+          "keywords": [
+            "provider",
+            "flutter provider"
+          ]
+        },
+        "flutter_getx": {
+          "label": "GetX",
+          "score": 95,
+          "keywords": [
+            "getx",
+            "getconnect",
+            "getstorage",
+            "getmaterialapp",
+            "bindings getx"
+          ]
+        },
+        "flutter_gorouter": {
+          "label": "GoRouter",
+          "score": 95,
+          "keywords": [
+            "gorouter",
+            "go router flutter"
+          ]
+        },
+        "flutter_channels": {
+          "label": "Platform Channels & Pigeon",
+          "score": 95,
+          "keywords": [
+            "platform channels",
+            "pigeon",
+            "flutter native bridge"
+          ]
+        },
+        "flutter_freezed": {
+          "label": "Freezed & build_runner",
+          "score": 95,
+          "keywords": [
+            "freezed",
+            "build_runner",
+            "json serializable flutter"
+          ]
+        },
+        "flutter_web": {
+          "label": "Flutter Web",
+          "score": 95,
+          "keywords": [
+            "flutter web",
+            "web flutter",
+            "portfolio web"
+          ]
+        },
+        "flutter_testing": {
+          "label": "flutter_test & bloc_test",
+          "score": 95,
+          "keywords": [
+            "flutter test",
+            "bloc_test",
+            "mocktail",
+            "integration test flutter",
+            "code coverage flutter"
+          ]
+        },
+        "flutter_flavors": {
+          "label": "Flavors dev/prod",
+          "score": 95,
+          "keywords": [
+            "flutter flavors",
+            "dev prod flavors",
+            "flavorizr"
+          ]
+        }
+      },
+      "cicd": {
+        "flutter_fastlane": {
+          "label": "Fastlane Flutter",
+          "score": 95,
+          "keywords": [
+            "fastlane flutter",
+            "build-mobile-all",
+            "build-release-all"
+          ]
+        },
+        "flutter_store_publish": {
+          "label": "Play/App Store Publish",
+          "score": 95,
+          "keywords": [
+            "play store publish",
+            "app store publish",
+            "store release automation"
+          ]
+        }
+      }
+    },
+    "kmp": {
+      "development": {
+        "kmp_kotlin": {
+          "label": "Kotlin Multiplatform",
+          "score": 95,
+          "keywords": [
+            "kotlin multiplatform",
+            "kmp",
+            "multiplatform mobile"
+          ]
+        },
+        "kmp_compose": {
+          "label": "Compose Multiplatform",
+          "score": 95,
+          "keywords": [
+            "compose multiplatform",
+            "cmp",
+            "compose desktop"
+          ]
+        },
+        "kmp_swiftui": {
+          "label": "SwiftUI",
+          "score": 95,
+          "keywords": [
+            "swiftui",
+            "swift ui",
+            "swiftui kmp",
+            "kmp ios ui",
+            "ios kmp ui"
+          ]
+        },
+        "kmp_koin": {
+          "label": "Koin DI",
+          "score": 95,
+          "keywords": [
+            "koin",
+            "koin di kmp"
+          ]
+        },
+        "kmp_code_reviewer": {
+          "label": "Code Reviewer Product",
+          "score": 100,
+          "keywords": [
+            "code reviewer",
+            "ai pr review",
+            "pull request review ai"
+          ]
+        },
+        "kmp_ai_providers": {
+          "label": "Gemini & OpenAI",
+          "score": 80,
+          "keywords": [
+            "gemini api",
+            "openai api",
+            "ai code review"
+          ]
+        }
+      },
+      "cicd": {
+        "kmp_auto_update": {
+          "label": "Auto-update Manifest",
+          "score": 95,
+          "keywords": [
+            "manifest.json",
+            "auto update desktop",
+            "codereviewer-releases"
+          ]
+        },
+        "kmp_bundle_verification": {
+          "label": "Shippable Bundle Verification",
+          "score": 95,
+          "keywords": [
+            "shippable bundle",
+            "verify app bundle",
+            "desktop release qa"
+          ]
+        }
+      }
+    },
+    "react_native": {
+      "development": {
+        "react_native_javascript": {
+          "label": "JavaScript",
+          "score": 40,
+          "keywords": [
+            "javascript",
+            "js",
+            "ecmascript",
+            "es6",
+            "typescript"
+          ]
+        },
+        "react_native_react": {
+          "label": "React",
+          "score": 30,
+          "keywords": [
+            "react",
+            "reactjs",
+            "react.js",
+            "jsx",
+            "react hooks",
+            "react components"
+          ]
+        },
+        "react_native_native_modules": {
+          "label": "Native Modules",
+          "score": 60,
+          "keywords": [
+            "react native",
+            "native modules",
+            "turbo modules",
+            "native module ios",
+            "native module android",
+            "hybrid app",
+            "hybrid ios",
+            "hybrid android"
+          ]
+        },
+        "react_native_architecture": {
+          "label": "React Native Architecture",
+          "score": 30,
+          "keywords": [
+            "react native architecture",
+            "bridge",
+            "new architecture",
+            "fabric",
+            "jsi",
+            "hermes",
+            "metro bundler"
+          ]
+        }
+      },
+      "cicd": {}
+    },
+    "architecture": {
+      "development": {
+        "arch_mvc": {
+          "label": "MVC",
+          "score": 95,
+          "keywords": [
+            "mvc",
+            "model view controller"
+          ]
+        },
+        "arch_mvp": {
+          "label": "MVP",
+          "score": 95,
+          "keywords": [
+            "mvp",
+            "model view presenter"
+          ]
+        },
+        "arch_mvvm": {
+          "label": "MVVM",
+          "score": 95,
+          "keywords": [
+            "mvvm",
+            "model view viewmodel",
+            "viewmodel"
+          ]
+        },
+        "arch_mvi": {
+          "label": "MVI",
+          "score": 95,
+          "keywords": [
+            "mvi",
+            "model view intent"
+          ]
+        },
+        "arch_viper": {
+          "label": "VIPER",
+          "score": 60,
+          "keywords": [
+            "viper",
+            "view interactor presenter entity router"
+          ]
+        },
+        "arch_clean": {
+          "label": "Clean Architecture",
+          "score": 95,
+          "keywords": [
+            "clean architecture",
+            "clean arch",
+            "uncle bob",
+            "layers domain data presentation"
+          ]
+        },
+        "arch_clean_mvvm": {
+          "label": "Clean Architecture + MVVM",
+          "score": 95,
+          "keywords": [
+            "clean architecture mvvm",
+            "clean arch mvvm",
+            "clean architecture mvi",
+            "clean arch mvp",
+            "clean architecture viper"
+          ]
+        },
+        "arch_bloc": {
+          "label": "BloC / Cubit",
+          "score": 95,
+          "keywords": [
+            "bloc",
+            "cubit",
+            "business logic component",
+            "flutter bloc pattern"
+          ]
+        },
+        "arch_clean_swift": {
+          "label": "Clean Swift",
+          "score": 80,
+          "keywords": [
+            "clean swift",
+            "cleanswift",
+            "clean swift architecture"
+          ]
+        },
+        "arch_solid": {
+          "label": "SOLID",
+          "score": 95,
+          "keywords": [
+            "solid",
+            "solid principles",
+            "single responsibility",
+            "open closed",
+            "liskov substitution",
+            "interface segregation",
+            "dependency inversion"
+          ]
+        },
+        "arch_gof": {
+          "label": "GoF Design Patterns",
+          "score": 95,
+          "keywords": [
+            "design patterns",
+            "gof",
+            "gang of four",
+            "factory pattern",
+            "observer pattern",
+            "strategy pattern",
+            "adapter pattern",
+            "singleton pattern"
+          ]
+        },
+        "arch_repository_use_cases": {
+          "label": "Repository & Use Cases",
+          "score": 95,
+          "keywords": [
+            "repository pattern",
+            "use cases",
+            "domain layer",
+            "interactors"
+          ]
+        },
+        "arch_modularization": {
+          "label": "Modularization & SDK Design",
+          "score": 95,
+          "keywords": [
+            "modularization",
+            "sdk design",
+            "module boundaries",
+            "feature modules"
+          ]
+        },
+        "arch_udf": {
+          "label": "Unidirectional Data Flow",
+          "score": 95,
+          "keywords": [
+            "unidirectional data flow",
+            "udf",
+            "single source of truth",
+            "state hoisting"
+          ]
+        }
+      },
+      "cicd": {}
+    },
+    "firebase": {
+      "development": {
+        "firebase_core": {
+          "label": "Firebase Core & SDK",
+          "score": 95,
+          "keywords": [
+            "firebase",
+            "firebase core",
+            "firebase sdk",
+            "google services"
+          ]
+        },
+        "firebase_auth": {
+          "label": "Firebase Authentication",
+          "score": 95,
+          "keywords": [
+            "firebase auth",
+            "firebase authentication",
+            "firebase login"
+          ]
+        },
+        "firebase_firestore": {
+          "label": "Cloud Firestore",
+          "score": 95,
+          "keywords": [
+            "firebase firestore",
+            "cloud firestore",
+            "firestore"
+          ]
+        },
+        "firebase_fcm": {
+          "label": "Firebase Cloud Messaging (FCM)",
+          "score": 95,
+          "keywords": [
+            "firebase messaging",
+            "fcm",
+            "firebase cloud messaging",
+            "push notifications firebase"
+          ]
+        },
+        "firebase_remote_config": {
+          "label": "Firebase Remote Config",
+          "score": 95,
+          "keywords": [
+            "firebase remote config",
+            "remote config",
+            "feature flags firebase"
+          ]
+        },
+        "firebase_crashlytics": {
+          "label": "Firebase Crashlytics",
+          "score": 95,
+          "keywords": [
+            "firebase crashlytics",
+            "crashlytics",
+            "crash reporting firebase"
+          ]
+        },
+        "firebase_ai_logic": {
+          "label": "Firebase AI Logic (Gemini)",
+          "score": 95,
+          "keywords": [
+            "firebase ai logic",
+            "firebase ai",
+            "firebase gemini",
+            "gemini firebase",
+            "firebase ai logic gemini"
+          ]
+        },
+        "firebase_app_check": {
+          "label": "Firebase App Check",
+          "score": 95,
+          "keywords": [
+            "firebase app check",
+            "app check",
+            "recaptcha firebase"
+          ]
+        },
+        "firebase_ml_kit": {
+          "label": "Firebase ML Kit",
+          "score": 95,
+          "keywords": [
+            "firebase ml kit",
+            "ml kit",
+            "machine learning firebase"
+          ]
+        },
+        "firebase_hosting": {
+          "label": "Firebase Hosting & App Hosting",
+          "score": 95,
+          "keywords": [
+            "firebase hosting",
+            "firebase app hosting",
+            "firebase deploy web"
+          ]
+        }
+      },
+      "cicd": {
+        "firebase_app_distribution": {
+          "label": "Firebase App Distribution",
+          "score": 95,
+          "keywords": [
+            "firebase app distribution",
+            "app distribution",
+            "firebase distribute",
+            "testers distribution"
+          ]
+        },
+        "firebase_cli": {
+          "label": "Firebase CLI & Project Setup",
+          "score": 95,
+          "keywords": [
+            "firebase cli",
+            "firebase tools",
+            "firebase init",
+            "firebase login",
+            "firebase deploy"
+          ]
+        }
+      }
+    },
+    "repositories": {
+      "development": {
+        "repos_vcs_apis": {
+          "label": "VCS API Integrations",
+          "score": 95,
+          "keywords": [
+            "azure devops api",
+            "github api",
+            "gitlab api",
+            "bitbucket api",
+            "pull request api"
+          ]
+        }
+      },
+      "cicd": {
+        "repos_github": {
+          "label": "GitHub",
+          "score": 95,
+          "keywords": [
+            "github",
+            "github repository",
+            "github repos",
+            "gh repo"
+          ]
+        },
+        "repos_github_actions": {
+          "label": "GitHub Actions",
+          "score": 95,
+          "keywords": [
+            "github actions",
+            "gh actions",
+            "workflow automation",
+            "github actions flutter",
+            "github actions kmp",
+            "flutter analyze ci",
+            "flutter build web ci"
+          ]
+        },
+        "repos_azure_devops": {
+          "label": "Azure DevOps",
+          "score": 95,
+          "keywords": [
+            "azure devops",
+            "ado",
+            "azure repos",
+            "azure devops repos",
+            "azure devops repository"
+          ]
+        },
+        "repos_gitlab": {
+          "label": "GitLab",
+          "score": 95,
+          "keywords": [
+            "gitlab",
+            "gitlab repository",
+            "gitlab repos",
+            "gitlab source control"
+          ]
+        },
+        "repos_bitbucket": {
+          "label": "Bitbucket",
+          "score": 95,
+          "keywords": [
+            "bitbucket",
+            "bitbucket repository",
+            "bitbucket repos",
+            "atlassian bitbucket"
+          ]
+        },
+        "repos_git": {
+          "label": "Git & Conventional Commits",
+          "score": 95,
+          "keywords": [
+            "git",
+            "trunk-based development",
+            "conventional commits",
+            "release tagging"
+          ]
+        },
+        "repos_sonarqube": {
+          "label": "SonarQube",
+          "score": 95,
+          "keywords": [
+            "sonarqube",
+            "sonar qube",
+            "sonar",
+            "quality gate",
+            "static analysis",
+            "code quality",
+            "technical debt"
+          ]
+        },
+        "repos_coverage_gates": {
+          "label": "Coverage Gates & JUnit Reports",
+          "score": 95,
+          "keywords": [
+            "code coverage",
+            "coverage gate",
+            "junit report",
+            "90% coverage",
+            "lcov"
+          ]
+        },
+        "repos_flutter_ci_template": {
+          "label": "Reusable Flutter CI Template",
+          "score": 95,
+          "keywords": [
+            "init_project.sh",
+            "render_pipeline.sh",
+            "flutter ci template"
+          ]
+        },
+        "repos_kmp_desktop_release": {
+          "label": "KMP Desktop Release Pipelines",
+          "score": 95,
+          "keywords": [
+            "github actions kmp",
+            "gradle createMacUpdateZip",
+            "linux deb",
+            "windows zip",
+            "desktop release pipeline"
+          ]
+        },
+        "repos_azure_pipelines": {
+          "label": "Azure DevOps Pipelines",
+          "score": 95,
+          "keywords": [
+            "azure devops pipelines",
+            "azure pipelines",
+            "ado pipelines",
+            "azure devops android",
+            "azure devops flutter",
+            "azure pipelines android",
+            "azure pipelines flutter",
+            "yaml pipeline",
+            "mobile ci/cd",
+            "build pipeline",
+            "release pipeline",
+            "conventional commits",
+            "loc gate",
+            "patch coverage",
+            "movida"
+          ]
+        },
+        "repos_gitlab_pipelines": {
+          "label": "GitLab CI/CD Pipelines",
+          "score": 95,
+          "keywords": [
+            "gitlab ci",
+            "gitlab ci/cd",
+            "gitlab pipelines",
+            "gitlab ci yaml",
+            "gitlab runner",
+            ".gitlab-ci.yml",
+            "mobile pipelines",
+            "build pipeline",
+            "release pipeline",
+            "luizalabs",
+            "magazine luiza",
+            "luiza labs"
+          ]
+        },
+        "repos_bitbucket_pipelines": {
+          "label": "Bitbucket Pipelines",
+          "score": 95,
+          "keywords": [
+            "bitbucket pipelines",
+            "bitbucket pipeline yaml",
+            "bitbucket ci/cd",
+            "atlassian pipelines",
+            "mobile ci/cd",
+            "build pipeline",
+            "release pipeline",
+            "probox studio",
+            "proboxstudio"
+          ]
+        }
+      }
+    },
+    "shared": {
+      "development": {
+        "shared_rest": {
+          "label": "REST & GraphQL",
+          "score": 95,
+          "keywords": [
+            "rest api",
+            "graphql",
+            "apollo",
+            "protobuf"
+          ]
+        },
+        "shared_offline_first": {
+          "label": "Offline-first & Sync",
+          "score": 95,
+          "keywords": [
+            "offline-first",
+            "offline first",
+            "data synchronization",
+            "sync mobile"
+          ]
+        },
+        "shared_security": {
+          "label": "Mobile Security",
+          "score": 95,
+          "keywords": [
+            "mobile security",
+            "data protection",
+            "secure storage",
+            "banking security"
+          ]
+        },
+        "shared_sentry": {
+          "label": "Sentry.io",
+          "score": 95,
+          "keywords": [
+            "sentry",
+            "sentry.io",
+            "error monitoring",
+            "crash reporting",
+            "application monitoring",
+            "observability",
+            "apm"
+          ]
+        },
+        "shared_ai_engineering": {
+          "label": "AI-assisted Engineering",
+          "score": 95,
+          "keywords": [
+            "cursor",
+            "github copilot",
+            "claude code",
+            "chatgpt",
+            "gemini",
+            "ai agents"
+          ]
+        },
+        "shared_leadership": {
+          "label": "Tech Lead & Mentoring",
+          "score": 95,
+          "keywords": [
+            "tech lead",
+            "team lead",
+            "mentoring",
+            "code review lead",
+            "onboarding engineers"
+          ]
+        },
+        "shared_domains": {
+          "label": "Domain Experience",
+          "score": 95,
+          "keywords": [
+            "banking",
+            "healthcare",
+            "ads sdk",
+            "telematics",
+            "ocr",
+            "liveness",
+            "biometrics",
+            "white-label"
+          ]
+        }
+      },
+      "cicd": {}
+    },
+    "languages": {
+      "development": {
+        "languages_portuguese": {
+          "label": "Portuguese",
+          "score": 100,
+          "keywords": [
+            "portuguese",
+            "português",
+            "pt-br",
+            "native portuguese",
+            "portuguese native"
+          ]
+        },
+        "languages_english": {
+          "label": "English",
+          "score": 85,
+          "keywords": [
+            "english",
+            "inglês",
+            "en-us",
+            "c1",
+            "cefr c1",
+            "english c1",
+            "advanced english",
+            "fluent english",
+            "professional english",
+            "business english"
+          ]
+        }
+      },
+      "cicd": {}
+    },
+    "education": {
+      "development": {
+        "education_uems_computer_science": {
+          "label": "Computer Science — UEMS (Dourados-MS)",
+          "score": 100,
+          "keywords": [
+            "computer science",
+            "ciência da computação",
+            "bacharelado",
+            "uems",
+            "universidade estadual de mato grosso do sul",
+            "dourados",
+            "sbc curriculum",
+            "software engineering",
+            "algorithms",
+            "data structures",
+            "computer networks",
+            "databases",
+            "artificial intelligence",
+            "supervised internship",
+            "final project",
+            "tcc"
+          ]
+        },
+        "education_up_mobile_cloud": {
+          "label": "Mobile Apps & Cloud Computing — UP (Curitiba-PR)",
+          "score": 100,
+          "keywords": [
+            "mobile apps",
+            "aplicativos móveis",
+            "cloud computing",
+            "computação em nuvem",
+            "universidade positivo",
+            "positivo",
+            "curitiba",
+            "post-graduation",
+            "pós-graduação",
+            "lato sensu",
+            "android",
+            "ios",
+            "windows phone 8",
+            "java",
+            "objective-c",
+            "c#",
+            "mobile architecture",
+            "agile",
+            "scrum",
+            "entrepreneurship",
+            "heroku",
+            "aws",
+            "microsoft azure",
+            "windows azure"
+          ]
+        }
+      },
+      "cicd": {}
+    }
+  }
+}
