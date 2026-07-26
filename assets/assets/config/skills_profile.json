@@ -146,6 +146,20 @@
             "product flavors android",
             "build variants android"
           ]
+        },
+        "android_debug": {
+          "label": "Debugging & Profiling",
+          "score": 100,
+          "keywords": [
+            "android debugging",
+            "android studio debugger",
+            "logcat",
+            "adb",
+            "android profiler",
+            "layout inspector",
+            "memory profiler android",
+            "network profiler android"
+          ]
         }
       },
       "cicd": {
@@ -244,6 +258,19 @@
             "telematics ios",
             "gps ios sdk",
             "ble ios sdk"
+          ]
+        },
+        "ios_debug": {
+          "label": "Xcode Debugger & Instruments",
+          "score": 90,
+          "keywords": [
+            "ios debugging",
+            "xcode debugger",
+            "lldb",
+            "instruments ios",
+            "memory graph debugger",
+            "view debugger ios",
+            "os log ios"
           ]
         }
       },
@@ -395,6 +422,19 @@
             "dev prod flavors",
             "flavorizr"
           ]
+        },
+        "flutter_debug": {
+          "label": "Flutter DevTools & Debugging",
+          "score": 100,
+          "keywords": [
+            "flutter debugging",
+            "flutter devtools",
+            "dart debugger",
+            "widget inspector",
+            "performance overlay flutter",
+            "memory profiler flutter",
+            "network inspector flutter"
+          ]
         }
       },
       "cicd": {
@@ -472,7 +512,153 @@
           "keywords": [
             "gemini api",
             "openai api",
-            "ai code review"
+            "ai code review",
+            "google generative ai",
+            "generativeai sdk"
+          ]
+        },
+        "kmp_ktor": {
+          "label": "Ktor Client",
+          "score": 95,
+          "keywords": [
+            "ktor",
+            "ktor client",
+            "ktor content negotiation",
+            "kotlinx serialization json",
+            "http client kmp"
+          ]
+        },
+        "kmp_navigation_compose": {
+          "label": "Navigation Compose",
+          "score": 95,
+          "keywords": [
+            "navigation compose",
+            "androidx navigation compose",
+            "compose navigation kmp"
+          ]
+        },
+        "kmp_lifecycle_viewmodel": {
+          "label": "Lifecycle ViewModel Compose",
+          "score": 95,
+          "keywords": [
+            "lifecycle viewmodel compose",
+            "viewmodel compose kmp",
+            "lifecycle runtime compose",
+            "collectasstatewithlifecycle"
+          ]
+        },
+        "kmp_kotlin_serialization": {
+          "label": "Kotlin Serialization",
+          "score": 95,
+          "keywords": [
+            "kotlin serialization",
+            "kotlinx serialization",
+            "kotlin plugin serialization",
+            "json serialization kotlin"
+          ]
+        },
+        "kmp_kotlin_coroutines": {
+          "label": "Kotlin Coroutines & Flow",
+          "score": 95,
+          "keywords": [
+            "kotlin coroutines",
+            "kotlin flow",
+            "kotlinx coroutines",
+            "coroutines swing",
+            "coroutines test"
+          ]
+        },
+        "kmp_material3": {
+          "label": "Material 3 Compose",
+          "score": 95,
+          "keywords": [
+            "material3 compose",
+            "compose material3",
+            "material 3 multiplatform"
+          ]
+        },
+        "kmp_coil": {
+          "label": "Coil 3",
+          "score": 90,
+          "keywords": [
+            "coil",
+            "coil3",
+            "coil compose",
+            "coil network ktor",
+            "image loading kmp"
+          ]
+        },
+        "kmp_compose_webview": {
+          "label": "Compose WebView Multiplatform",
+          "score": 90,
+          "keywords": [
+            "compose webview multiplatform",
+            "compose webview",
+            "html rendering compose",
+            "webview kmp"
+          ]
+        },
+        "kmp_kotlinx_datetime": {
+          "label": "kotlinx-datetime",
+          "score": 90,
+          "keywords": [
+            "kotlinx datetime",
+            "kotlin datetime",
+            "kotlin multiplatform datetime"
+          ]
+        },
+        "kmp_vcs_integrations": {
+          "label": "VCS PR API Integrations",
+          "score": 95,
+          "keywords": [
+            "azure devops pull request api",
+            "github pull request api",
+            "gitlab merge request api",
+            "bitbucket pull request api",
+            "vcs pat",
+            "code review api",
+            "pull request diff api"
+          ]
+        },
+        "kmp_sentry": {
+          "label": "Sentry KMP SDK",
+          "score": 95,
+          "keywords": [
+            "sentry kmp",
+            "sentry kotlin multiplatform",
+            "sentry source context",
+            "crash reporting kmp"
+          ]
+        },
+        "kmp_javafx": {
+          "label": "JavaFX Media",
+          "score": 85,
+          "keywords": [
+            "javafx",
+            "javafx media",
+            "desktop audio kotlin",
+            "openjfx"
+          ]
+        },
+        "kmp_kotlin_test": {
+          "label": "Kotlin Test & Mock Engine",
+          "score": 95,
+          "keywords": [
+            "kotlin test",
+            "kotlin test junit",
+            "ktor client mock",
+            "kotlin multiplatform testing"
+          ]
+        },
+        "kmp_debug": {
+          "label": "KMP Debugging",
+          "score": 100,
+          "keywords": [
+            "kmp debugging",
+            "kotlin multiplatform debugging",
+            "compose multiplatform debugging",
+            "shared code debugging",
+            "native debugging kmp"
           ]
         }
       },
@@ -493,6 +679,41 @@
             "shippable bundle",
             "verify app bundle",
             "desktop release qa"
+          ]
+        },
+        "kmp_compose_desktop_packaging": {
+          "label": "Compose Desktop Packaging",
+          "score": 95,
+          "keywords": [
+            "compose desktop",
+            "packageReleaseDmg",
+            "packageReleaseDeb",
+            "packageReleaseMsi",
+            "createMacUpdateZip",
+            "createLinuxDeb",
+            "createWindowsZip",
+            "native distributions"
+          ]
+        },
+        "kmp_macos_codesign": {
+          "label": "macOS Codesign & Shippable JDK",
+          "score": 90,
+          "keywords": [
+            "macos codesign",
+            "codesign mac app",
+            "verify-jdk-macos-shippable",
+            "verify-app-bundle-shippable",
+            "ditto zip mac"
+          ]
+        },
+        "kmp_sentry_release": {
+          "label": "Sentry Release Integration",
+          "score": 90,
+          "keywords": [
+            "sentry jvm gradle",
+            "sentry auth token",
+            "sentry release kmp",
+            "include source context"
           ]
         }
       }
@@ -547,6 +768,18 @@
             "jsi",
             "hermes",
             "metro bundler"
+          ]
+        },
+        "react_native_debug": {
+          "label": "React Native Debugging",
+          "score": 20,
+          "keywords": [
+            "react native debugging",
+            "flipper react native",
+            "react devtools",
+            "metro debugger",
+            "hermes debugger",
+            "react native profiler"
           ]
         }
       },
