@@ -1,0 +1,10 @@
+{
+  "amazon": {
+    "pt": "https://www.amazon.com.br/dp/B0H9Y2ZPMC",
+    "en": "https://www.amazon.com/dp/B0H9X1LK2G?language=en_US&currency=USD"
+  },
+  "kiwify": {
+    "pt": "https://pay.kiwify.com.br/1mjQAXj",
+    "en": "https://pay.kiwify.com/MGUCdaQ"
+  }
+}

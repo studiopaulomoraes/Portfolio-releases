@@ -1,0 +1,52 @@
+{
+  "code_reviewer": {
+    "download": "https://studiopaulomoraes.github.io/Probox-CodeReviewer-releases/"
+  },
+  "magalu": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=com.luizalabs.mlapp&hl=pt_BR"
+    }
+  },
+  "netshoes": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=br.com.netshoes.app&hl=pt_BR"
+    }
+  },
+  "bradesco_net_empresa": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=br.com.bradesco.netempresa&hl=pt_BR"
+    },
+    "appStore": {
+      "default": "https://apps.apple.com/br/app/bradesco-net-empresa-conta-pj/id462977200"
+    }
+  },
+  "santander_empresas": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=com.santandermovelempresarial.app&hl=pt_BR"
+    }
+  },
+  "wedoc": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=br.com.wedoc.mobile&hl=pt_BR"
+    },
+    "appStore": {
+      "default": "https://apps.apple.com/br/app/wedoc/id1481743245"
+    }
+  },
+  "philadelphia_inquirer": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=com.ap.philly"
+    },
+    "appStore": {
+      "default": "https://apps.apple.com/us/app/the-philadelphia-inquirer/id577251728"
+    }
+  },
+  "geo_sat": {
+    "googlePlay": {
+      "default": "https://play.google.com/store/apps/details?id=br.com.satservicos.geofleet.client.app&hl=pt"
+    },
+    "appStore": {
+      "default": "https://apps.apple.com/br/app/geo-sat/id6752615165"
+    }
+  }
+}
