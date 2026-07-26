@@ -86,6 +86,18 @@
             "camera android"
           ]
         },
+        "android_exoplayer": {
+          "label": "ExoPlayer & Media3",
+          "score": 95,
+          "keywords": [
+            "exoplayer",
+            "media3",
+            "android media player",
+            "hls android",
+            "dash android",
+            "video playback android"
+          ]
+        },
         "android_ndk": {
           "label": "NDK",
           "score": 90,
@@ -200,6 +212,18 @@
             "amazon ivs",
             "live streaming ios",
             "interactive video ios"
+          ]
+        },
+        "ios_avplayer": {
+          "label": "AVPlayer & AVFoundation",
+          "score": 90,
+          "keywords": [
+            "avplayer",
+            "avfoundation",
+            "avkit",
+            "ios media player",
+            "hls ios",
+            "video playback ios"
           ]
         },
         "ios_banking": {
