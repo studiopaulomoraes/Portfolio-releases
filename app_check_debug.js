@@ -1,0 +1,1 @@
+self.FIREBASE_APPCHECK_DEBUG_TOKEN = '3d9b1899-c6ff-4fd8-9f0e-51d1aad75bc8';
