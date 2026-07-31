@@ -25,7 +25,9 @@
           "keywords": [
             "jetpack compose",
             "compose",
-            "android compose"
+            "android compose",
+            "compose navigation",
+            "fragment compose"
           ]
         },
         "android_views": {
@@ -45,7 +47,34 @@
             "android jetpack",
             "navigation component",
             "viewmodel",
-            "livedata"
+            "livedata",
+            "navigation compose",
+            "viewbinding",
+            "hilt navigation compose",
+            "startup runtime"
+          ]
+        },
+        "android_hilt": {
+          "label": "Hilt",
+          "score": 95,
+          "keywords": [
+            "hilt",
+            "dagger hilt",
+            "hilt android",
+            "dependency injection android",
+            "di android",
+            "jetpack hilt"
+          ]
+        },
+        "android_koin": {
+          "label": "Koin",
+          "score": 95,
+          "keywords": [
+            "koin",
+            "koin android",
+            "koin di android",
+            "dependency injection android",
+            "di android"
           ]
         },
         "android_coroutines": {
@@ -73,7 +102,10 @@
           "keywords": [
             "retrofit",
             "okhttp",
-            "rest android"
+            "rest android",
+            "moshi",
+            "ksp moshi",
+            "mockwebserver"
           ]
         },
         "android_camerax": {
@@ -135,7 +167,13 @@
             "junit android",
             "espresso",
             "android unit test",
-            "android instrumentation"
+            "android instrumentation",
+            "mockk",
+            "turbine",
+            "robolectric",
+            "jacoco",
+            "hilt android testing",
+            "compose ui test"
           ]
         },
         "android_gradle": {
@@ -145,6 +183,185 @@
             "gradle android",
             "product flavors android",
             "build variants android"
+          ]
+        },
+        "android_apollo_graphql": {
+          "label": "Apollo GraphQL Kotlin (Android)",
+          "score": 95,
+          "keywords": [
+            "apollo graphql android",
+            "apollo kotlin android",
+            "apollo3 android",
+            "graphql android"
+          ]
+        },
+        "android_datastore": {
+          "label": "DataStore",
+          "score": 95,
+          "keywords": [
+            "datastore",
+            "datastore preferences",
+            "proto datastore",
+            "android datastore"
+          ]
+        },
+        "android_coil": {
+          "label": "Coil",
+          "score": 90,
+          "keywords": [
+            "coil",
+            "coil compose",
+            "coil gif",
+            "image loading android"
+          ]
+        },
+        "android_play_billing": {
+          "label": "Google Play Billing",
+          "score": 95,
+          "keywords": [
+            "google play billing",
+            "in-app purchase android",
+            "billing client",
+            "iap android"
+          ]
+        },
+        "android_ads_monetization": {
+          "label": "Ads & Programmatic (GMA/Prebid/APS)",
+          "score": 95,
+          "keywords": [
+            "google mobile ads",
+            "gma android",
+            "prebid mobile",
+            "amazon aps",
+            "permutive",
+            "confiant",
+            "header bidding android",
+            "ads sdk android"
+          ]
+        },
+        "android_hybrid_webview": {
+          "label": "Hybrid WebView Rendering",
+          "score": 95,
+          "keywords": [
+            "hybrid webview",
+            "webview android",
+            "article rendering webview",
+            "cms webview overlay"
+          ]
+        },
+        "android_auth0": {
+          "label": "Auth0 Android",
+          "score": 90,
+          "keywords": [
+            "auth0",
+            "auth0 lock android",
+            "jwt decode",
+            "oauth android"
+          ]
+        },
+        "android_baseline_profile": {
+          "label": "Baseline Profiles & Macrobenchmark",
+          "score": 90,
+          "keywords": [
+            "baseline profile",
+            "macrobenchmark",
+            "benchmark android",
+            "profileinstaller",
+            "startup optimization android"
+          ]
+        },
+        "android_material3_compose": {
+          "label": "Material 3 Compose",
+          "score": 90,
+          "keywords": [
+            "material3 compose",
+            "compose material3",
+            "material 3 android"
+          ]
+        },
+        "android_viafoura": {
+          "label": "Viafoura Comments",
+          "score": 90,
+          "keywords": [
+            "viafoura",
+            "viafoura android",
+            "comments sdk android",
+            "community comments android"
+          ]
+        },
+        "android_braze": {
+          "label": "Braze CRM",
+          "score": 90,
+          "keywords": [
+            "braze",
+            "braze android",
+            "crm push android",
+            "mobile engagement android"
+          ]
+        },
+        "android_maps_compose": {
+          "label": "Google Maps Compose",
+          "score": 90,
+          "keywords": [
+            "maps compose",
+            "google maps compose",
+            "maps android",
+            "location android"
+          ]
+        },
+        "android_instant_apps": {
+          "label": "Google Instant Apps",
+          "score": 85,
+          "keywords": [
+            "instant apps",
+            "google instant apps",
+            "instant app android",
+            "play instant"
+          ]
+        },
+        "android_realm": {
+          "label": "Realm Android",
+          "score": 95,
+          "keywords": [
+            "realm android",
+            "realm database android",
+            "realm kotlin"
+          ]
+        },
+        "android_rxjava": {
+          "label": "RxJava Android",
+          "score": 90,
+          "keywords": [
+            "rxjava android",
+            "rxjava3",
+            "reactivex android"
+          ]
+        },
+        "android_protobuf": {
+          "label": "Protobuf Android",
+          "score": 95,
+          "keywords": [
+            "protobuf android",
+            "proto android",
+            "grpc android"
+          ]
+        },
+        "android_dynamic_features": {
+          "label": "Play Feature Delivery",
+          "score": 90,
+          "keywords": [
+            "dynamic feature android",
+            "play feature delivery",
+            "android app bundle modules"
+          ]
+        },
+        "android_dynatrace": {
+          "label": "Dynatrace Android",
+          "score": 90,
+          "keywords": [
+            "dynatrace android",
+            "mobile apm android",
+            "application performance monitoring android"
           ]
         },
         "android_debug": {
@@ -187,7 +404,7 @@
         },
         "ios_objective_c": {
           "label": "Objective-C",
-          "score": 60,
+          "score": 85,
           "keywords": [
             "objective-c",
             "objc",
@@ -225,7 +442,9 @@
           "keywords": [
             "amazon ivs",
             "live streaming ios",
-            "interactive video ios"
+            "interactive video ios",
+            "ivs broadcast",
+            "ivs broadcast plugin"
           ]
         },
         "ios_avplayer": {
@@ -271,6 +490,72 @@
             "memory graph debugger",
             "view debugger ios",
             "os log ios"
+          ]
+        },
+        "ios_alamofire": {
+          "label": "Alamofire",
+          "score": 90,
+          "keywords": [
+            "alamofire",
+            "alamofireobjectmapper",
+            "http client ios"
+          ]
+        },
+        "ios_realm": {
+          "label": "Realm iOS",
+          "score": 90,
+          "keywords": [
+            "realm ios",
+            "realm swift",
+            "realm database ios"
+          ]
+        },
+        "ios_appsflyer": {
+          "label": "AppsFlyer",
+          "score": 85,
+          "keywords": [
+            "appsflyer",
+            "appsflyer ios",
+            "mobile attribution ios"
+          ]
+        },
+        "ios_marketing_cloud": {
+          "label": "Salesforce Marketing Cloud",
+          "score": 85,
+          "keywords": [
+            "marketing cloud",
+            "salesforce marketing cloud ios",
+            "mobile push marketing cloud"
+          ]
+        },
+        "ios_mlkit": {
+          "label": "ML Kit iOS",
+          "score": 90,
+          "keywords": [
+            "ml kit ios",
+            "barcode scanning ios",
+            "text recognition ios",
+            "firebase ml kit ios"
+          ]
+        },
+        "ios_quick_nimble": {
+          "label": "Quick & Nimble",
+          "score": 85,
+          "keywords": [
+            "quick nimble",
+            "quick ios",
+            "nimble ios",
+            "bdd ios testing"
+          ]
+        },
+        "ios_crypto": {
+          "label": "iOS Cryptography",
+          "score": 85,
+          "keywords": [
+            "cryptoswift",
+            "swiftyrsa",
+            "ios cryptography",
+            "secure enclave ios"
           ]
         }
       },
@@ -338,7 +623,10 @@
             "flutter_modular",
             "bloc",
             "cubit",
-            "flutter bloc"
+            "flutter bloc",
+            "sealed flutter bloc",
+            "modular bloc bind",
+            "flutter_bloc"
           ]
         },
         "flutter_riverpod": {
@@ -382,7 +670,10 @@
           "keywords": [
             "platform channels",
             "pigeon",
-            "flutter native bridge"
+            "flutter native bridge",
+            "flutter plugin",
+            "method channel",
+            "ivs broadcast plugin"
           ]
         },
         "flutter_freezed": {
@@ -400,7 +691,9 @@
           "keywords": [
             "flutter web",
             "web flutter",
-            "portfolio web"
+            "portfolio web",
+            "universal_html",
+            "flutter backoffice web"
           ]
         },
         "flutter_testing": {
@@ -410,6 +703,8 @@
             "flutter test",
             "bloc_test",
             "mocktail",
+            "mockito",
+            "modular_test",
             "integration test flutter",
             "code coverage flutter"
           ]
@@ -420,7 +715,198 @@
           "keywords": [
             "flutter flavors",
             "dev prod flavors",
-            "flavorizr"
+            "flavorizr",
+            "dart-define",
+            "flavor creator"
+          ]
+        },
+        "flutter_dio": {
+          "label": "Dio HTTP Client",
+          "score": 95,
+          "keywords": [
+            "dio",
+            "dio flutter",
+            "http client flutter",
+            "retrofit generator flutter"
+          ]
+        },
+        "flutter_graphql": {
+          "label": "GraphQL Flutter",
+          "score": 95,
+          "keywords": [
+            "graphql flutter",
+            "gql dart",
+            "graphql client flutter",
+            "appsync graphql"
+          ]
+        },
+        "flutter_mobx": {
+          "label": "MobX Flutter",
+          "score": 90,
+          "keywords": [
+            "mobx",
+            "flutter mobx",
+            "mobx_codegen",
+            "flutter_mobx"
+          ]
+        },
+        "flutter_hive": {
+          "label": "Hive NoSQL",
+          "score": 90,
+          "keywords": [
+            "hive",
+            "hive flutter",
+            "hive_generator",
+            "nosql flutter"
+          ]
+        },
+        "flutter_sqflite": {
+          "label": "sqflite SQLite",
+          "score": 90,
+          "keywords": [
+            "sqflite",
+            "sqlite flutter",
+            "local database flutter"
+          ]
+        },
+        "flutter_dartz": {
+          "label": "Dartz Functional",
+          "score": 90,
+          "keywords": [
+            "dartz",
+            "either flutter",
+            "functional programming dart"
+          ]
+        },
+        "flutter_formz": {
+          "label": "Formz Validation",
+          "score": 90,
+          "keywords": [
+            "formz",
+            "form validation flutter",
+            "input validation flutter"
+          ]
+        },
+        "flutter_secure_storage": {
+          "label": "flutter_secure_storage",
+          "score": 95,
+          "keywords": [
+            "flutter secure storage",
+            "secure storage flutter",
+            "token storage flutter"
+          ]
+        },
+        "flutter_local_auth": {
+          "label": "local_auth Biometrics",
+          "score": 95,
+          "keywords": [
+            "local auth flutter",
+            "biometrics flutter",
+            "fingerprint flutter",
+            "face id flutter"
+          ]
+        },
+        "flutter_google_maps": {
+          "label": "Google Maps Flutter",
+          "score": 95,
+          "keywords": [
+            "google maps flutter",
+            "google_maps_flutter",
+            "geolocator",
+            "geocoding flutter",
+            "maps flutter"
+          ]
+        },
+        "flutter_signalr": {
+          "label": "SignalR Flutter",
+          "score": 90,
+          "keywords": [
+            "signalr flutter",
+            "signalr_netcore",
+            "realtime flutter",
+            "websocket hub flutter"
+          ]
+        },
+        "flutter_workmanager": {
+          "label": "Workmanager Background",
+          "score": 90,
+          "keywords": [
+            "workmanager",
+            "background tasks flutter",
+            "background fetch flutter"
+          ]
+        },
+        "flutter_protobuf": {
+          "label": "Protobuf Flutter",
+          "score": 90,
+          "keywords": [
+            "protobuf flutter",
+            "protoc dart",
+            "maxpb",
+            "proto flutter"
+          ]
+        },
+        "flutter_ble": {
+          "label": "flutter_blue_plus BLE",
+          "score": 95,
+          "keywords": [
+            "flutter blue plus",
+            "ble flutter",
+            "bluetooth flutter",
+            "flutter ble"
+          ]
+        },
+        "flutter_design_system": {
+          "label": "Flutter Design System",
+          "score": 95,
+          "keywords": [
+            "design system flutter",
+            "sat design system",
+            "component library flutter",
+            "skeletonizer flutter"
+          ]
+        },
+        "flutter_field_service": {
+          "label": "Field Service Apps",
+          "score": 95,
+          "keywords": [
+            "field service app",
+            "work order mobile",
+            "operations mobile app",
+            "activos",
+            "mega system"
+          ]
+        },
+        "flutter_media_capture": {
+          "label": "Camera & Media Flutter",
+          "score": 95,
+          "keywords": [
+            "camera flutter",
+            "image picker flutter",
+            "video trimmer flutter",
+            "better player flutter",
+            "camerawesome",
+            "mobile scanner flutter"
+          ]
+        },
+        "flutter_liveness": {
+          "label": "Face Liveness SDK",
+          "score": 90,
+          "keywords": [
+            "face liveness",
+            "liveness detection flutter",
+            "biometric onboarding flutter",
+            "new face liveness"
+          ]
+        },
+        "flutter_amazon_ivs": {
+          "label": "Amazon IVS Flutter",
+          "score": 85,
+          "keywords": [
+            "amazon ivs flutter",
+            "ivs broadcast",
+            "live streaming flutter",
+            "broadcast flutter"
           ]
         },
         "flutter_debug": {
@@ -453,7 +939,18 @@
           "keywords": [
             "play store publish",
             "app store publish",
-            "store release automation"
+            "store release automation",
+            "supply fastlane",
+            "wedoc alpha track"
+          ]
+        },
+        "flutter_firebase_app_distribution": {
+          "label": "Firebase App Distribution Flutter",
+          "score": 95,
+          "keywords": [
+            "firebase app distribution flutter",
+            "firebase distribute flutter",
+            "internal testing flutter"
           ]
         }
       }
@@ -526,6 +1023,17 @@
             "ktor content negotiation",
             "kotlinx serialization json",
             "http client kmp"
+          ]
+        },
+        "kmp_apollo_graphql": {
+          "label": "Apollo GraphQL Kotlin (KMP)",
+          "score": 90,
+          "keywords": [
+            "apollo graphql kmp",
+            "apollo kotlin multiplatform",
+            "graphql kmp",
+            "apollo3 kmp",
+            "apollo kotlin"
           ]
         },
         "kmp_navigation_compose": {
@@ -647,7 +1155,10 @@
             "kotlin test",
             "kotlin test junit",
             "ktor client mock",
-            "kotlin multiplatform testing"
+            "kotlin multiplatform testing",
+            "mockk",
+            "turbine",
+            "coroutines test"
           ]
         },
         "kmp_debug": {
@@ -745,7 +1256,7 @@
         },
         "react_native_native_modules": {
           "label": "Native Modules",
-          "score": 60,
+          "score": 85,
           "keywords": [
             "react native",
             "native modules",
@@ -754,7 +1265,8 @@
             "native module android",
             "hybrid app",
             "hybrid ios",
-            "hybrid android"
+            "hybrid android",
+            "react-native-builder-bob"
           ]
         },
         "react_native_architecture": {
@@ -770,6 +1282,61 @@
             "metro bundler"
           ]
         },
+        "react_native_redux": {
+          "label": "Redux & Persist",
+          "score": 30,
+          "keywords": [
+            "redux react native",
+            "redux persist",
+            "react native state management"
+          ]
+        },
+        "react_native_navigation": {
+          "label": "React Navigation",
+          "score": 45,
+          "keywords": [
+            "react navigation",
+            "react navigation 6",
+            "react native navigation"
+          ]
+        },
+        "react_native_firebase": {
+          "label": "Firebase React Native",
+          "score": 85,
+          "keywords": [
+            "firebase react native",
+            "react native firebase",
+            "fcm react native"
+          ]
+        },
+        "react_native_sentry": {
+          "label": "Sentry React Native",
+          "score": 85,
+          "keywords": [
+            "sentry react native",
+            "crash reporting react native"
+          ]
+        },
+        "react_native_contentful": {
+          "label": "Contentful CMS",
+          "score": 80,
+          "keywords": [
+            "contentful",
+            "contentful react native",
+            "headless cms react native"
+          ]
+        },
+        "react_native_medical_devices": {
+          "label": "Medical Device BLE Bridges",
+          "score": 85,
+          "keywords": [
+            "dexcom react native",
+            "accu-chek react native",
+            "cgm react native",
+            "medical device sdk react native",
+            "glooko"
+          ]
+        },
         "react_native_debug": {
           "label": "React Native Debugging",
           "score": 20,
@@ -783,7 +1350,17 @@
           ]
         }
       },
-      "cicd": {}
+      "cicd": {
+        "react_native_bitrise": {
+          "label": "Bitrise React Native",
+          "score": 30,
+          "keywords": [
+            "bitrise react native",
+            "bitrise ios android",
+            "bitrise fastlane"
+          ]
+        }
+      }
     },
     "architecture": {
       "development": {
@@ -923,6 +1500,21 @@
             "udf",
             "single source of truth",
             "state hoisting"
+          ]
+        },
+        "arch_sdui": {
+          "label": "Server Driven UI",
+          "score": 95,
+          "keywords": [
+            "server driven ui",
+            "server-driven ui",
+            "sdui",
+            "backend driven ui",
+            "dynamic ui",
+            "ui schema",
+            "json driven ui",
+            "remote ui",
+            "bff ui"
           ]
         }
       },
@@ -1083,8 +1675,11 @@
             "workflow automation",
             "github actions flutter",
             "github actions kmp",
+            "github actions python",
             "flutter analyze ci",
-            "flutter build web ci"
+            "flutter build web ci",
+            "pytest github actions",
+            "wedoc backend ci"
           ]
         },
         "repos_azure_devops": {
@@ -1158,7 +1753,10 @@
           "keywords": [
             "init_project.sh",
             "render_pipeline.sh",
-            "flutter ci template"
+            "flutter ci template",
+            "geofleet buildscripts",
+            "patch coverage flutter",
+            "conventional commits flutter ci"
           ]
         },
         "repos_kmp_desktop_release": {
@@ -1190,7 +1788,8 @@
             "conventional commits",
             "loc gate",
             "patch coverage",
-            "movida"
+            "movida",
+            "geofleet"
           ]
         },
         "repos_gitlab_pipelines": {
@@ -1225,8 +1824,161 @@
             "probox studio",
             "proboxstudio"
           ]
+        },
+        "repos_jenkins": {
+          "label": "Jenkins Pipelines",
+          "score": 90,
+          "keywords": [
+            "jenkins",
+            "jenkins pipeline",
+            "jenkins android",
+            "jenkins mobile ci",
+            "browserstack jenkins"
+          ]
+        },
+        "repos_bitrise": {
+          "label": "Bitrise",
+          "score": 85,
+          "keywords": [
+            "bitrise",
+            "bitrise mobile ci",
+            "bitrise react native",
+            "bitrise ios android"
+          ]
+        },
+        "repos_dynatrace": {
+          "label": "Dynatrace Mobile APM",
+          "score": 85,
+          "keywords": [
+            "dynatrace",
+            "dynatrace mobile",
+            "application performance monitoring",
+            "mobile observability dynatrace"
+          ]
         }
       }
+    },
+    "ai_engineering": {
+      "development": {
+        "ai_engineering_assisted": {
+          "label": "AI-assisted Engineering",
+          "score": 95,
+          "keywords": [
+            "cursor",
+            "github copilot",
+            "claude code",
+            "chatgpt",
+            "gemini",
+            "ai agents",
+            "ai-assisted development",
+            "llm coding",
+            "agent harness",
+            "AGENTS.md"
+          ]
+        },
+        "ai_engineering_multi_agent": {
+          "label": "Multi-Agent AI Workflow",
+          "score": 95,
+          "keywords": [
+            "multi-agent workflow",
+            "multi agent system",
+            "analyst designer developer qa",
+            "agent roles",
+            "sequential agent execution",
+            "FIM-ANALISTA",
+            "agent reviewer",
+            "agent professor",
+            "REVISAR-DEVELOPER"
+          ]
+        },
+        "ai_engineering_cursor_harness": {
+          "label": "Cursor Rules & Agent Harness",
+          "score": 95,
+          "keywords": [
+            "cursor rules",
+            ".cursor/rules",
+            "mdc rules",
+            "alwaysApply rules",
+            "agent harness",
+            "AI-README",
+            "AI-ARCHITECTURE",
+            "auto-rejection triggers",
+            "strict agent rules"
+          ]
+        },
+        "ai_engineering_rag": {
+          "label": "RAG & AI Knowledge Base",
+          "score": 90,
+          "keywords": [
+            "rag",
+            "retrieval augmented generation",
+            "ai knowledge base",
+            "indexed documentation",
+            "adaptive retrieval",
+            "graphify",
+            "knowledge graph",
+            "anti-hallucination",
+            "documented vs inferred"
+          ]
+        },
+        "ai_engineering_sdd": {
+          "label": "Spec-Driven Development (SDD)",
+          "score": 85,
+          "keywords": [
+            "spec driven development",
+            "sdd",
+            "implementation plan phases",
+            "GIVEN WHEN THEN",
+            "detailed implementation plan",
+            "phased tasks",
+            "architectural decisions document",
+            "requirements analyst plan"
+          ]
+        },
+        "ai_engineering_agent_skills": {
+          "label": "Agent Skills (SKILL.md)",
+          "score": 90,
+          "keywords": [
+            "agent skills",
+            "SKILL.md",
+            "cursor skills",
+            "claude skills",
+            "skill references",
+            "domain skill",
+            "firebase skills",
+            "adaptive skill routing"
+          ]
+        },
+        "ai_engineering_monorepo_coordination": {
+          "label": "Multi-Project AI Coordination",
+          "score": 90,
+          "keywords": [
+            "monorepo ai coordination",
+            "cross-project propagation",
+            "intelligent adaptation",
+            "propagate feature",
+            "scan projects",
+            "multi-project coordinator",
+            "architecture adaptation",
+            "cross-project validation"
+          ]
+        },
+        "ai_engineering_domain_rag": {
+          "label": "Domain Documentation RAG",
+          "score": 90,
+          "keywords": [
+            "domain documentation rag",
+            "technical documentation index",
+            "pdf to markdown pipeline",
+            "vendor documentation ingestion",
+            "maxtrack documentation",
+            "protocol buffer documentation",
+            "search index docs",
+            "router rules domain"
+          ]
+        }
+      },
+      "cicd": {}
     },
     "shared": {
       "development": {
@@ -1236,8 +1988,10 @@
           "keywords": [
             "rest api",
             "graphql",
-            "apollo",
-            "protobuf"
+            "graphql api",
+            "protobuf",
+            "http api",
+            "api design"
           ]
         },
         "shared_offline_first": {
@@ -1273,18 +2027,6 @@
             "apm"
           ]
         },
-        "shared_ai_engineering": {
-          "label": "AI-assisted Engineering",
-          "score": 95,
-          "keywords": [
-            "cursor",
-            "github copilot",
-            "claude code",
-            "chatgpt",
-            "gemini",
-            "ai agents"
-          ]
-        },
         "shared_leadership": {
           "label": "Tech Lead & Mentoring",
           "score": 95,
@@ -1308,6 +2050,68 @@
             "liveness",
             "biometrics",
             "white-label"
+          ]
+        },
+        "shared_news_publishing": {
+          "label": "News & Publishing Apps",
+          "score": 95,
+          "keywords": [
+            "news app",
+            "publishing app",
+            "newspaper app",
+            "media app",
+            "philadelphia inquirer",
+            "paywall",
+            "metered paywall",
+            "piano composer"
+          ]
+        },
+        "shared_feature_flags": {
+          "label": "Feature Flags & Experimentation",
+          "score": 90,
+          "keywords": [
+            "growthbook",
+            "feature flags",
+            "a/b testing mobile",
+            "experimentation platform"
+          ]
+        },
+        "shared_fleet_telematics": {
+          "label": "Fleet & Telematics",
+          "score": 95,
+          "keywords": [
+            "fleet management",
+            "telematics",
+            "vehicle tracking",
+            "geofleet",
+            "sat rastreamento",
+            "rastreamento veicular",
+            "ubi insurance"
+          ]
+        },
+        "shared_telemedicine": {
+          "label": "Telemedicine & Corporate Wellbeing",
+          "score": 95,
+          "keywords": [
+            "telemedicine",
+            "corporate wellbeing",
+            "wedoc",
+            "healthcare mobile app",
+            "employee health platform"
+          ]
+        },
+        "shared_serverless_aws": {
+          "label": "AWS Serverless Backend",
+          "score": 85,
+          "keywords": [
+            "aws serverless",
+            "serverless framework",
+            "aws lambda python",
+            "amazon cognito",
+            "dynamodb",
+            "aws sns",
+            "aws s3",
+            "opensearch aws"
           ]
         }
       },
