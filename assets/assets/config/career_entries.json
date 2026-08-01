@@ -1,0 +1,171 @@
+{
+  "version": 1,
+  "careerStart": "2012-06",
+  "entries": [
+    {
+      "id": "proboxstudio",
+      "company": {
+        "pt": "Probox Studio",
+        "en": "Probox Studio"
+      },
+      "role": {
+        "pt": "Founder / Tech Lead",
+        "en": "Founder / Tech Lead"
+      },
+      "highlight": {
+        "pt": "• Founder / Tech Lead na Probox Studio; ownership de produto e engenharia\n• Code Reviewer (KMP + Compose): code review com IA para Azure DevOps, GitHub, GitLab e Bitbucket\n• Sentry.io: monitoramento de erros e crash reporting no Code Reviewer (KMP desktop: macOS, Windows e Linux)\n• Diff side-by-side, comentários draft, tech stack configurável; desktop macOS, Windows e Linux\n• CI/CD GitHub Actions: builds paralelos Mac/Linux/Windows, verificação de bundle shippable, manifest de auto-update\n• Publish no CodeReviewer-releases; providers Gemini e OpenAI\n• Portfolio Flutter Web: analyze, unit tests, build web, deploy em www.proboxstudio.com.br via Portfolio-releases",
+        "en": "• Founder / Tech Lead at Probox Studio; product and engineering ownership\n• Code Reviewer (KMP + Compose): AI PR review for Azure DevOps, GitHub, GitLab and Bitbucket\n• Sentry.io error monitoring and crash reporting in Code Reviewer (KMP desktop: macOS, Windows and Linux)\n• Side-by-side diff, draft comments, configurable tech stack; desktop macOS, Windows and Linux\n• GitHub Actions CI/CD: parallel Mac/Linux/Windows builds, shippable bundle verification, auto-update manifest\n• Release publish to CodeReviewer-releases; Gemini and OpenAI providers\n• Flutter Web portfolio: analyze, unit tests, build web, deploy to www.proboxstudio.com.br via Portfolio-releases"
+      }
+    },
+    {
+      "id": "curotec",
+      "company": {
+        "pt": "Curotec LLC · The Philadelphia Inquirer",
+        "en": "Curotec LLC · The Philadelphia Inquirer"
+      },
+      "role": {
+        "pt": "Senior Mobile Developer (Android & iOS)",
+        "en": "Senior Mobile Developer (Android & iOS)"
+      },
+      "highlight": {
+        "pt": "• Redesign completo do app The Philadelphia Inquirer em Android (Jetpack Compose) e iOS (SwiftUI)\n• Contribuição em planejamento, design e ideação, especialmente Ads e UX nativa\n• Desenvolvimento nativo hands-on, performance e release readiness em ambas plataformas",
+        "en": "• Full redesign of The Philadelphia Inquirer news app on Android (Jetpack Compose) and iOS (SwiftUI)\n• Planning, design and ideation contribution, especially Ads monetization and native UX\n• Hands-on native development, performance and release readiness across both platforms"
+      }
+    },
+    {
+      "id": "movida",
+      "company": {
+        "pt": "Movida S/A",
+        "en": "Movida S/A"
+      },
+      "role": {
+        "pt": "Tech Lead Mobile",
+        "en": "Tech Lead Mobile"
+      },
+      "highlight": {
+        "pt": "• Tech Lead Mobile do time Flutter; apps activOS, MovidaExpress, GeoFleet, GeoFleetClient, SatDesignSystem e FlavorCreator\n• Arquitetura: flutter_modular + BloC/Cubit, Riverpod, Provider e GetX em legados\n• CI/CD GeoFleetClient 100% meu no Azure DevOps: Conventional Commits, LOC gate, analyze/style\n• SonarQube nos pipelines Azure DevOps: análise estática, quality gates e enforcement de qualidade em PRs\n• Unit tests com ≥90% por arquivo no diff do PR, JUnit no Azure, codegen Pigeon/build_runner\n• Fastlane (APK/AAB/IPA), Play/App Store publish, Firebase App Distribution dev/prod (Android + iOS), auto tagging\n• Template CI/CD Flutter reutilizável (init_project.sh) para novos apps",
+        "en": "• Tech Lead Mobile for Flutter team; apps activOS, MovidaExpress, GeoFleet, GeoFleetClient, SatDesignSystem and FlavorCreator\n• Architecture: flutter_modular + BloC/Cubit, Riverpod, Provider and GetX in legacy apps\n• Built 100% of GeoFleetClient CI/CD on Azure DevOps: Conventional Commits, LOC gate, analyze/style\n• SonarQube in Azure DevOps pipelines: static analysis, quality gates and PR quality enforcement\n• Unit tests with ≥90% per-file coverage on PR diffs, JUnit in Azure, Pigeon/build_runner codegen\n• Fastlane (APK/AAB/IPA), Play/App Store publish, Firebase App Distribution dev/prod (Android + iOS), auto tagging\n• Reusable Flutter CI/CD template (init_project.sh) for new apps"
+      }
+    },
+    {
+      "id": "luizalabs",
+      "company": {
+        "pt": "LuizaLabs · Magalu · Netshoes",
+        "en": "LuizaLabs · Magalu · Netshoes"
+      },
+      "role": {
+        "pt": "Senior Mobile Developer / Mobile SDK Technical Lead",
+        "en": "Senior Mobile Developer / Mobile SDK Technical Lead"
+      },
+      "highlight": {
+        "pt": "• Liderança técnica hands-on na plataforma mobile de Ads para Magalu, Netshoes e Zattini\n• Arquitetura de SDKs de Ads Android e iOS, contratos de integração e compatibilidade de versão\n• Clean Architecture, MVI, modularização; trunk-based development, CI/CD e controle de regressão\n• SonarQube com análise estática e quality gates nos repositórios e CI/CD dos SDKs de Ads Android/iOS\n• Confiabilidade de crash, ANR e métricas; colaboração com Product, Business e times de apps\n• Engenharia assistida por IA (Cursor, Copilot, Claude, ChatGPT, Gemini) para legado e testes",
+        "en": "• Hands-on technical leader on mobile Ads platform for Magalu, Netshoes and Zattini\n• Led Android and iOS Ads SDK architecture, integration contracts and version compatibility\n• Clean Architecture, MVI, modularization; trunk-based development, CI/CD and regression control\n• SonarQube static analysis and quality gates on Ads SDK Android/iOS repositories and CI/CD\n• Crash, ANR and metrics reliability; collaboration with Product, Business and app teams\n• AI-assisted engineering (Cursor, Copilot, Claude, ChatGPT, Gemini) for legacy code and test generation"
+      }
+    },
+    {
+      "id": "bradesco",
+      "company": {
+        "pt": "Banco Bradesco S/A",
+        "en": "Banco Bradesco S/A"
+      },
+      "role": {
+        "pt": "Senior Systems Analyst / Android Technical Reference",
+        "en": "Senior Systems Analyst / Android Technical Reference"
+      },
+      "highlight": {
+        "pt": "• Referência técnica Android/iOS para apps bancários de alta criticidade, incluindo Bradesco Net Empresas (iOS)\n• Refatoração de SDK NDK de cheque de ~50MB para ~6MB preservando funcionalidades\n• SonarQube com análise estática e quality gates em codebases mobile bancários de alta criticidade\n• PoCs: pagamentos NFC em ATM, Firebase ML Kit barcode, CameraX, LUMA analysis, OCR/liveness\n• Fóruns técnicos, discussões cross-platform, estudos de impacto e documentação interna",
+        "en": "• Android/iOS technical reference for high-criticality banking apps, including Bradesco Net Empresas (iOS)\n• Refactored NDK check-deposit SDK from ~50MB to ~6MB preserving functionality\n• SonarQube static analysis and quality gates on high-criticality banking mobile codebases\n• PoCs: NFC ATM payments, Firebase ML Kit barcode, CameraX, LUMA analysis, OCR/liveness\n• Technical forums, cross-platform discussions, impact studies and internal documentation"
+      }
+    },
+    {
+      "id": "santander",
+      "company": {
+        "pt": "Banco Santander · F1rst",
+        "en": "Banco Santander · F1rst"
+      },
+      "role": {
+        "pt": "Senior Systems Analyst / Arquitetura Modular Android",
+        "en": "Senior Systems Analyst / Android Modular Architecture"
+      },
+      "highlight": {
+        "pt": "• Participação no revamp do app de PJ do Banco Santander via F1rst\n• Desenrolamento de arquitetura Android multimodular problemática, com módulos que não compilavam entre si\n• Tratamento de dependências circulares com o módulo principal do app, único host que injetava implementações exigidas pelos módulos externos\n• Módulos externos só funcionavam dentro do app principal; samples standalone quebravam por dependerem de bindings exclusivos do host\n• Contribuição na criação da pipeline de modularização e avanço de boundaries modulares e reestruturação de injeção de dependências\n• Saída antes da conclusão completa do revamp",
+        "en": "• Participated in the corporate banking (PJ) app revamp at Banco Santander via F1rst\n• Untangled a fragile multi-module Android architecture where modules did not compile together\n• Addressed circular dependencies with the main app module, the only host injecting implementations required by external modules\n• External modules only worked inside the main app; standalone samples failed because key dependencies existed only in the host\n• Helped create the modularization pipeline and advance module boundaries and dependency-injection restructuring\n• Left before the revamp was fully completed"
+      }
+    },
+    {
+      "id": "fullstack",
+      "company": {
+        "pt": "FullStack Labs · Glooko",
+        "en": "FullStack Labs · Glooko"
+      },
+      "role": {
+        "pt": "Mobile Systems Engineer",
+        "en": "Mobile Systems Engineer"
+      },
+      "highlight": {
+        "pt": "• Mobile Systems Engineer na Glooko (monitoramento de glicose); inglês fluente, time distribuído\n• Liderança técnica nativa Android/iOS em ecossistema React Native\n• Sentry.io: crash reporting e monitoramento de erros no iPEP Mobile (React Native, múltiplos flavors de saúde)\n• Integração BLE com dispositivos médicos; confiabilidade, segurança e precisão de dados\n• Documentação técnica de fluxos native-hybrid, comportamento de devices e troubleshooting",
+        "en": "• Mobile Systems Engineer for Glooko healthcare glucose monitoring; fully in English, distributed team\n• Native Android and iOS technical lead inside React Native ecosystem\n• Sentry.io crash reporting and error monitoring in iPEP Mobile (React Native, multiple healthcare flavors)\n• BLE integration with medical devices; reliability, security and data accuracy in healthcare context\n• Technical documentation for native-hybrid flows, device behavior and troubleshooting"
+      }
+    },
+    {
+      "id": "wedoc",
+      "company": {
+        "pt": "WeDoc",
+        "en": "WeDoc"
+      },
+      "role": {
+        "pt": "Mobile Systems Specialist",
+        "en": "Mobile Systems Specialist"
+      },
+      "highlight": {
+        "pt": "• Liderança da integração Android/iOS com Amazon IVS para rede social exclusiva de médicos\n• Flutter Platform Channels; estabilidade, qualidade de vídeo e boundaries de integração\n• Mentoria técnica em integração Flutter-native, arquitetura e qualidade de código",
+        "en": "• Led Android/iOS integration with Amazon IVS live streaming for doctors-only social network\n• Flutter Platform Channels bridge; stability, video quality and maintainable integration boundaries\n• Technical mentoring on Flutter-native integration, architecture and code quality"
+      }
+    },
+    {
+      "id": "ceabs",
+      "company": {
+        "pt": "CEABS Serviços",
+        "en": "CEABS Serviços"
+      },
+      "role": {
+        "pt": "Senior Consultant / Mobile Framework Owner",
+        "en": "Senior Consultant / Mobile Framework Owner"
+      },
+      "highlight": {
+        "pt": "• Owner de SDKs white-label de captura de telemetria para Android e iOS (sensores, GPS, BLE, conectividade)\n• Algoritmos de comportamento: início/fim de viagem, freada/aceleração brusca, excesso de velocidade\n• Integrações REST, Bluetooth, Protobuf, firmware updates em campo e validação em estrada real",
+        "en": "• Owned white-label telemetry capture SDKs for Android and iOS (sensors, GPS, BLE, connectivity)\n• Driver behavior algorithms: trip start/end, harsh braking, acceleration, speeding and elevation\n• REST integrations, Bluetooth, Protobuf, field firmware updates and real-road validation"
+      }
+    },
+    {
+      "id": "m2sys",
+      "company": {
+        "pt": "M2Sys Tecnologia e Serviços",
+        "en": "M2Sys Tecnologia e Serviços"
+      },
+      "role": {
+        "pt": "Senior Mobile Systems Analyst",
+        "en": "Senior Mobile Systems Analyst"
+      },
+      "highlight": {
+        "pt": "• Referência técnica mobile em OCR, biometria, reconhecimento facial e validação de identidade\n• Framework para captura de RG, CPF e CNH com validação automática de qualidade de imagem\n• Liveness em tempo real reduzindo rejeição manual de documentos em ~96%\n• PoCs de análise documental para Banco Original, Itaú e Telefônica/Vivo",
+        "en": "• Mobile technical reference for OCR, biometrics, facial recognition and identity validation (financial sector)\n• Framework for Brazilian ID, tax ID and driver license capture with automatic image-quality validation\n• Real-time liveness detection reducing manual document rejection by ~96%\n• Document analysis PoCs for Banco Original, Itau and Telefonica/Vivo"
+      }
+    },
+    {
+      "id": "malapronta",
+      "company": {
+        "pt": "Experiência Android inicial · MalaPronta.com, Livetouch Sistemas, IdealSoft, Faculdade Anhanguera",
+        "en": "Earlier Android Experience · MalaPronta.com, Livetouch Sistemas, IdealSoft, Faculdade Anhanguera"
+      },
+      "role": {
+        "pt": "Android Developer · Brazil",
+        "en": "Android Developer · Brazil"
+      },
+      "highlight": {
+        "pt": "• Desenvolvimento de apps Android para hospitalidade, reservas, mercado financeiro e automação de força de vendas, com suporte a smartphone/tablet, interfaces adaptativas e sincronização offline-first.\n• Contribuição para codebase Android white-label reutilizável que viabilizou cerca de 40 apps de hotéis, com evolução centralizada, customização por marca e menor custo de manutenção.\n• Implementação de atualização em tempo real de tickers financeiros, integrações de backend, armazenamento local, sincronização com Windows Azure e responsabilidades iniciais de suporte a produção Android.",
+        "en": "• Built Android applications for hospitality, booking, financial-market data and sales-force automation, including smartphone/tablet support, adaptive interfaces and offline-first synchronization.\n• Contributed to a reusable white-label Android codebase that enabled approximately 40 hotel apps with centralized evolution, brand-specific customization and lower maintenance cost.\n• Implemented real-time financial ticker UI updates, backend integrations, local storage, Windows Azure synchronization and early Android production support responsibilities."
+      }
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "version": 1,
+  "entries": [
+    {
+      "id": "uems",
+      "kind": "degree",
+      "institution": {
+        "pt": "Universidade Estadual de Mato Grosso do Sul (UEMS)",
+        "en": "Universidade Estadual de Mato Grosso do Sul (UEMS)"
+      },
+      "degree": {
+        "pt": "Bacharelado em Ciência da Computação",
+        "en": "Bachelor's in Computer Science"
+      },
+      "location": {
+        "pt": "Unidade Universitária de Dourados · Integral · 4 anos (mín.) · ~3.448 h",
+        "en": "Dourados University Unit · Full-time · 4 years (min.) · ~3,448 h"
+      },
+      "highlight": {
+        "pt": "• Bacharelado em turno integral na Unidade Universitária de Dourados (PP reformulado em 2010, alinhado ao Currículo de Referência da SBC e às DCNs do MEC)\n• Formação para planejar, desenvolver, implantar e administrar soluções computacionais em contextos comerciais, industriais e científicos\n• Núcleos: Fundamentos da Computação, Tecnologia da Computação, Matemática, Ciências Básicas, Eletrônica Digital e Contexto Social e Profissional\n• Grade com algoritmos e estruturas de dados, engenharia de software, bancos de dados, redes, sistemas operacionais, IA, compiladores, computação gráfica e programação paralela/distribuída\n• Integração teoria-prática via laboratórios, estágio supervisionado, Projeto Final de Curso (TCC) e atividades complementares\n• Perfil do egresso: mercado de trabalho (público/privado/liberal) ou continuidade acadêmica em pós-graduação",
+        "en": "• Bachelor's program at the Dourados campus (2010 curriculum aligned with the SBC Reference Curriculum and MEC guidelines)\n• Trains professionals to plan, develop, deploy, and manage computational solutions for commercial, industrial, and scientific problems\n• Training pillars: Computing Fundamentals, Computing Technology, Mathematics, Basic Sciences, Digital Electronics, and Social & Professional Context\n• Core track includes algorithms & data structures, software engineering, databases, computer networks, operating systems, AI, compilers, computer graphics, and parallel/distributed programming\n• Theory-practice integration through labs, supervised internship, final project (TCC), and complementary activities\n• Graduate profile: industry (public/private/self-employed) or academic path toward graduate studies"
+      }
+    },
+    {
+      "id": "up",
+      "kind": "postGraduation",
+      "institution": {
+        "pt": "Universidade Positivo (UP)",
+        "en": "Universidade Positivo (UP)"
+      },
+      "degree": {
+        "pt": "Pós-graduação em Aplicativos Móveis e Computação em Nuvem",
+        "en": "Post-graduation in Mobile Apps and Cloud Computing"
+      },
+      "location": {
+        "pt": "Curitiba, PR · Brasil",
+        "en": "Curitiba, PR · Brazil"
+      },
+      "highlight": {
+        "pt": "• Especialização lato sensu em Aplicativos Móveis e Computação em Nuvem (Universidade Positivo, Curitiba)\n• Trilha mobile: Android 1 e 2, iOS 1 e 2, Windows Phone 8 1 e 2\n• Linguagens: Java (Android na época), Objective-C (iOS) e C# (Windows Phone)\n• Trilha cloud: Heroku, AWS e Microsoft Azure (na época também Windows Azure)\n• Arquiteturas mobile da época, metodologias ágeis e empreendedorismo\n• Formação hands-on para publicação e operação de apps multiplataforma com backend em nuvem",
+        "en": "• Lato sensu specialization in Mobile Apps and Cloud Computing (Universidade Positivo, Curitiba)\n• Mobile track: Android 1 & 2, iOS 1 & 2, Windows Phone 8 1 & 2\n• Languages: Java (Android at the time), Objective-C (iOS), and C# (Windows Phone)\n• Cloud track: Heroku, AWS, and Microsoft Azure (then also branded Windows Azure)\n• Mobile architecture patterns of the era, agile methodologies, and entrepreneurship\n• Hands-on training to ship and operate multi-platform apps with cloud-backed services"
+      }
+    }
+  ]
+}
