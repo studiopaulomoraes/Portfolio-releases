@@ -325,7 +325,9 @@
           "keywords": [
             "realm android",
             "realm database android",
-            "realm kotlin"
+            "realm kotlin",
+            "realm sync",
+            "realm sync android"
           ]
         },
         "android_rxjava": {
@@ -364,6 +366,152 @@
             "application performance monitoring android"
           ]
         },
+        "android_newrelic": {
+          "label": "New Relic Mobile",
+          "score": 85,
+          "keywords": [
+            "new relic",
+            "newrelic",
+            "new relic android",
+            "mobile apm new relic",
+            "application performance monitoring"
+          ]
+        },
+        "android_gtm": {
+          "label": "Google Tag Manager",
+          "score": 80,
+          "keywords": [
+            "google tag manager",
+            "gtm android",
+            "tag manager mobile",
+            "google analytics tag manager"
+          ]
+        },
+        "android_ormlite": {
+          "label": "OrmLite",
+          "score": 80,
+          "keywords": [
+            "ormlite",
+            "orm lite android",
+            "ormlite android",
+            "sqlite ormlite"
+          ]
+        },
+        "android_gson": {
+          "label": "Gson",
+          "score": 85,
+          "keywords": [
+            "gson",
+            "gson android",
+            "google gson",
+            "json gson"
+          ]
+        },
+        "android_loopj_asynchttp": {
+          "label": "AsyncHttpClient (loopj)",
+          "score": 85,
+          "keywords": [
+            "asynchttpclient",
+            "android-async-http",
+            "loopj",
+            "loopj android",
+            "async http client android"
+          ]
+        },
+        "android_aquery": {
+          "label": "AQuery",
+          "score": 75,
+          "keywords": [
+            "aquery",
+            "android-query",
+            "android query",
+            "aquery image loading"
+          ]
+        },
+        "android_jackson_simplexml": {
+          "label": "Jackson & SimpleXML",
+          "score": 80,
+          "keywords": [
+            "jackson android",
+            "jackson databind",
+            "simplexml",
+            "simple framework xml",
+            "ota xml android",
+            "xml serialization android"
+          ]
+        },
+        "android_parse_sdk": {
+          "label": "Parse.com SDK",
+          "score": 85,
+          "keywords": [
+            "parse.com",
+            "parse sdk",
+            "parse android",
+            "parse push",
+            "mbaas parse",
+            "hotelapp parse"
+          ]
+        },
+        "android_picasso": {
+          "label": "Picasso",
+          "score": 80,
+          "keywords": [
+            "picasso",
+            "picasso android",
+            "square picasso",
+            "image loading picasso"
+          ]
+        },
+        "android_zxing": {
+          "label": "ZXing",
+          "score": 85,
+          "keywords": [
+            "zxing",
+            "zxing android",
+            "barcode scanner android",
+            "qr code scanner android"
+          ]
+        },
+        "android_camerakit": {
+          "label": "CameraKit",
+          "score": 75,
+          "keywords": [
+            "camerakit",
+            "camera kit android",
+            "legacy camera android"
+          ]
+        },
+        "android_lottie": {
+          "label": "Lottie",
+          "score": 85,
+          "keywords": [
+            "lottie",
+            "lottie android",
+            "airbnb lottie",
+            "lottie animations android"
+          ]
+        },
+        "android_google_fit": {
+          "label": "Google Fit",
+          "score": 80,
+          "keywords": [
+            "google fit",
+            "google fit api",
+            "fitness api android",
+            "health data android"
+          ]
+        },
+        "android_open_banking": {
+          "label": "Open Banking",
+          "score": 85,
+          "keywords": [
+            "open banking",
+            "open finance",
+            "open banking android",
+            "pix open banking",
+            "banking api integration"
+          ]
+        },
         "android_debug": {
           "label": "Debugging & Profiling",
           "score": 100,
@@ -388,6 +536,16 @@
             "apk",
             "aab",
             "android release"
+          ]
+        },
+        "android_ktlint": {
+          "label": "ktlint",
+          "score": 90,
+          "keywords": [
+            "ktlint",
+            "kotlin lint",
+            "ktlint android",
+            "kotlin code style"
           ]
         }
       }
@@ -507,7 +665,30 @@
           "keywords": [
             "realm ios",
             "realm swift",
-            "realm database ios"
+            "realm database ios",
+            "realm sync",
+            "realm sync ios"
+          ]
+        },
+        "ios_healthkit": {
+          "label": "HealthKit",
+          "score": 85,
+          "keywords": [
+            "healthkit",
+            "health kit ios",
+            "apple healthkit",
+            "health data ios",
+            "healthkit integration"
+          ]
+        },
+        "ios_sdwebimage": {
+          "label": "SDWebImage",
+          "score": 85,
+          "keywords": [
+            "sdwebimage",
+            "sd web image",
+            "sdwebimage ios",
+            "image loading ios legacy"
           ]
         },
         "ios_appsflyer": {
@@ -1334,7 +1515,19 @@
             "accu-chek react native",
             "cgm react native",
             "medical device sdk react native",
-            "glooko"
+            "glooko",
+            "healthkit react native",
+            "google fit react native"
+          ]
+        },
+        "react_native_realm_sync": {
+          "label": "Realm Sync React Native",
+          "score": 85,
+          "keywords": [
+            "realm sync react native",
+            "realm database react native",
+            "encrypted realm react native",
+            "realm mobile database react native"
           ]
         },
         "react_native_debug": {
@@ -1730,6 +1923,8 @@
             "sonarqube",
             "sonar qube",
             "sonar",
+            "sonarscanner",
+            "sonar scanner",
             "quality gate",
             "static analysis",
             "code quality",
@@ -2049,7 +2244,13 @@
             "ocr",
             "liveness",
             "biometrics",
-            "white-label"
+            "white-label",
+            "hospitality",
+            "hotel booking",
+            "hotelapp",
+            "malapronta",
+            "usage-based insurance",
+            "ubi"
           ]
         },
         "shared_news_publishing": {
