@@ -1,0 +1,203 @@
+{
+  "version": 1,
+  "header": {
+    "fullName": {
+      "pt": "Paulo Emilio Rodrigues de Moraes",
+      "en": "Paulo Emilio Rodrigues de Moraes"
+    },
+    "tagline": {
+      "pt": "Senior Software Engineer Mobile | Technical Lead | Android & iOS | Flutter | Kotlin Multiplatform",
+      "en": "Senior Software Engineer Mobile | Technical Lead | Android & iOS | Flutter | Kotlin Multiplatform"
+    },
+    "location": {
+      "pt": "Brasil | Remoto",
+      "en": "Brazil Remote"
+    },
+    "phone": {
+      "pt": "+55 (41) 99196-1941",
+      "en": "+55 (41) 99196-1941"
+    },
+    "email": {
+      "pt": "paulo.e.r.moraes@gmail.com",
+      "en": "paulo.e.r.moraes@gmail.com"
+    },
+    "linkedIn": {
+      "pt": "LinkedIn: linkedin.com/in/paulo-e-r-moraes",
+      "en": "LinkedIn: linkedin.com/in/paulo-e-r-moraes"
+    },
+    "portfolioUrl": {
+      "pt": "Portfólio: www.proboxstudio.com.br",
+      "en": "Portfolio: www.proboxstudio.com.br"
+    }
+  },
+  "summary": {
+    "pt": "Senior Software Engineer Mobile e líder técnico com mais de 13 anos de experiência em desenvolvimento de produtos para Android, iOS e Flutter, incluindo SDKs, aplicações multiplataforma e integrações com hardware. Atua de forma hands-on no desenho de soluções, evolução arquitetural, code review, mentoria, investigação de problemas em produção e melhoria contínua de performance, estabilidade e qualidade. Experiência recente como Senior Android Developer no The Philadelphia Inquirer (Curotec), com entregas em áudio nativo, analytics de feed e performance de startup, além de atuação como Founder / Tech Lead da Probox Studio, desenvolvendo produto desktop em Kotlin Multiplatform com IA, observabilidade e CI/CD multiplataforma.",
+    "en": "Senior Mobile Software Engineer and Technical Lead with over 13 years of experience developing products for Android, iOS, and Flutter, including SDKs, cross-platform applications, and hardware integrations. Hands-on expertise in solution design, architectural evolution, code review, mentoring, production troubleshooting, and continuous improvement of performance, stability, and quality. Recent experience as Senior Android Developer at The Philadelphia Inquirer (Curotec), delivering native audio, feed analytics, and startup performance work, as well as acting as Founder / Tech Lead at Probox Studio, developing a desktop product in Kotlin Multiplatform with AI, observability, and cross-platform CI/CD."
+  },
+  "sectionTitles": {
+    "summary": {
+      "pt": "Resumo profissional",
+      "en": "Professional summary"
+    },
+    "competencies": {
+      "pt": "Competências técnicas",
+      "en": "Core competencies & skills"
+    },
+    "experience": {
+      "pt": "Experiência profissional",
+      "en": "Professional experience"
+    },
+    "previousExperience": {
+      "pt": "Experiências anteriores",
+      "en": "Previous experience"
+    },
+    "publication": {
+      "pt": "Publicação técnica",
+      "en": "Technical publications"
+    },
+    "education": {
+      "pt": "Formação acadêmica",
+      "en": "Education"
+    },
+    "languages": {
+      "pt": "Idiomas",
+      "en": "Languages"
+    }
+  },
+  "competencyGroups": [
+    {
+      "id": "mobile",
+      "title": {
+        "pt": "Mobile e linguagens",
+        "en": "Mobile & Languages"
+      },
+      "items": [
+        {
+          "pt": "Android, iOS, Flutter, Kotlin Multiplatform (KMP), React Native, Kotlin, Java, Swift, Dart, JavaScript",
+          "en": "Android, iOS, Flutter, Kotlin Multiplatform (KMP), React Native, Kotlin, Java, Swift, Dart, JavaScript"
+        }
+      ]
+    },
+    {
+      "id": "ui_architecture",
+      "title": {
+        "pt": "UI e arquitetura",
+        "en": "UI & Architecture"
+      },
+      "items": [
+        {
+          "pt": "Jetpack Compose, SwiftUI, XML, MVVM, MVI, Clean Architecture, modularização, SOLID, Design Patterns, SDK Architecture",
+          "en": "Jetpack Compose, SwiftUI, XML, MVVM, MVI, Clean Architecture, Modularization, SOLID, Design Patterns, SDK Architecture"
+        }
+      ]
+    },
+    {
+      "id": "quality",
+      "title": {
+        "pt": "Qualidade e liderança",
+        "en": "Quality & Leadership"
+      },
+      "items": [
+        {
+          "pt": "Technical leadership, mentoria, code review, pull requests, testes unitários e de UI, CI/CD, Git, performance, redução de crashes e ANRs, regression control, Baseline Profiles",
+          "en": "Technical leadership, mentoring, code review, pull requests, unit and UI testing, CI/CD, Git, performance optimization, crash and ANR reduction, regression control, Baseline Profiles"
+        }
+      ]
+    },
+    {
+      "id": "tools",
+      "title": {
+        "pt": "Ferramentas e observabilidade",
+        "en": "Tools & Observability"
+      },
+      "items": [
+        {
+          "pt": "Android Studio, Xcode, Gradle, GitHub Actions, Azure DevOps, Sentry, Firebase ML Kit, OpenAI, Gemini, Avo",
+          "en": "Android Studio, Xcode, Gradle, GitHub Actions, Azure DevOps, Sentry, Firebase ML Kit, OpenAI, Gemini, Avo"
+        }
+      ]
+    },
+    {
+      "id": "integrations",
+      "title": {
+        "pt": "Integrações",
+        "en": "Integrations"
+      },
+      "items": [
+        {
+          "pt": "REST APIs, BLE, NFC, CameraX, NDK, Protobuf, sensores, Platform Channels, GitHub, GitLab, Bitbucket, Azure DevOps",
+          "en": "REST APIs, BLE, NFC, CameraX, NDK, Protobuf, sensors, Platform Channels, GitHub, GitLab, Bitbucket, Azure DevOps"
+        }
+      ]
+    },
+    {
+      "id": "domains",
+      "title": {
+        "pt": "Domínios",
+        "en": "Domains"
+      },
+      "items": [
+        {
+          "pt": "Mobilidade e telemetria, banking, healthcare, Ads, OCR, biometria, liveness detection, video streaming, digital publishing / news",
+          "en": "Mobility and telemetry, banking, healthcare, Ads, OCR, biometrics, liveness detection, video streaming, digital publishing / news"
+        }
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": {
+        "pt": "Jetpack Compose & SwiftUI para quem já sabe Flutter",
+        "en": "Jetpack Compose & SwiftUI for those who already know Flutter"
+      },
+      "subtitle": {
+        "pt": "Autor",
+        "en": "Author"
+      },
+      "description": {
+        "pt": "• Livro técnico com mais de 220 páginas, publicado em português e inglês, voltado a desenvolvedores Flutter que desejam acelerar a adoção de Jetpack Compose e SwiftUI.\n• Conteúdo comparativo sobre componentes, gerenciamento de estado, navegação, layouts, arquitetura, testes e boas práticas nas três tecnologias.",
+        "en": "• Technical book (+220 pages), published in PT and EN, aimed at Flutter developers who wish to accelerate the adoption of Jetpack Compose and SwiftUI.\n• Comparative content on components, state management, navigation, layouts, architecture, testing, and best practices across the three technologies."
+      }
+    }
+  ],
+  "education": [
+    {
+      "line": {
+        "pt": "Pós-Graduação - Aplicativos Móveis e Computação em Nuvem | Universidade Positivo | 2013 - 2014",
+        "en": "Postgraduate Degree in Mobile Applications and Cloud Computing – Universidade Positivo (2013-2014)"
+      }
+    },
+    {
+      "line": {
+        "pt": "Bacharelado - Ciência da Computação | Universidade Estadual de Mato Grosso do Sul | 2008 - 2012",
+        "en": "Bachelor's Degree in Computer Science – Universidade Estadual de Mato Grosso do Sul (2008-2012)"
+      }
+    }
+  ],
+  "languages": [
+    {
+      "line": {
+        "pt": "Português: Nativo",
+        "en": "Portuguese: Native"
+      }
+    },
+    {
+      "line": {
+        "pt": "Inglês: Avançado - experiência profissional em projetos internacionais, documentação técnica, reuniões, code reviews e comunicação diária.",
+        "en": "English: Advanced (professional experience in international projects, technical documentation, meetings, code reviews, and daily communication)."
+      }
+    }
+  ],
+  "experienceEntryIds": [
+    "curotec",
+    "proboxstudio",
+    "luizalabs",
+    "fullstack",
+    "bradesco",
+    "ceabs",
+    "m2sys"
+  ],
+  "previousExperienceEntryIds": [
+    "malapronta"
+  ]
+}
